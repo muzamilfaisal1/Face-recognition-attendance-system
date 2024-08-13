@@ -1,1 +1,1 @@
-# Face-recognition-attendance-system
+I developed a Python-based attendance system that utilizes face recognition to mark attendance. This system includes a user-friendly graphical user interface (GUI) created with Tkinter, making it accessible to anyone. The project leverages OpenCV for capturing images and performing face recognition using the `cv2.face.LBPHFaceRecognizer_create()` method. Additionally, it incorporates CSV, Numpy, Pandas, and datetime for various supporting functions.
